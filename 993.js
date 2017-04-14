@@ -12,4 +12,4 @@ var reverseWords = function(s) {
    return result.substring(0,result.length - 1);
 };
 
-console.log(reverseWords("hello world shi gao pan"))
+console.log(reverseWords("hello world"))
